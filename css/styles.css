@@ -28,7 +28,7 @@ canvas {
   top: 0;
   left: 0;
   z-index: 9999;
-  background: #000000;
+  background: #f83434;
   height: 100%;
   width: 100%;
   display: flex;
@@ -78,7 +78,7 @@ canvas {
 .line-box .line {
   height: 20px;
   border-radius: 20px;
-  background: #9945FF ;
+  background: #f90a0a ;
   animation: loading 2.5s forwards cubic-bezier(0,0,0,0);
 }
 
@@ -290,9 +290,9 @@ canvas {
   margin: 0 5px;
   border-radius: 20px;
   border-top: 2px solid #f9f7fa;
-  border-left: 2px solid #f9f7fa;
-  border-right: 2px solid #f9f7fa;
-  border-bottom: 0.5rem solid #fb0b02;
+  border-left: 2px solid #ff0e0e;
+  border-right: 2px solid #ff0e0e;
+  border-bottom: 0.5rem solid #faf9f9;
   border-radius: 3rem;
   text-align: center;
 }
@@ -627,11 +627,11 @@ p {
   text-shadow: 2px 2px black;
   border-bottom-width: 1px; /* Slightly thinner bottom border */
   border-radius: 15px;
-  border-top: 2px solid #9945FF;
-  border-left: 2px solid #9945FF;
-  border-right: 2px solid #9945FF;
-  border-bottom: 0.5rem solid #14F195;
-  color: #14F195;
+  border-top: 2px solid #fd0404;
+  border-left: 2px solid #faf8f8;
+  border-right: 2px solid #f6f6f6;
+  border-bottom: 0.5rem solid #fd0a0a;
+  color: #f9fcfa;
 }
 
 /* Content Styles */
@@ -652,7 +652,7 @@ p {
   padding: 10px 20px;
   margin: 20px auto; /* Centers the button and adds vertical margin */
   border-radius: 3rem;
-  border-top: 2px solid #f9f7fa;
+  border-top: 2px solid #f60703;
   border-left: 2px solid #f9f7fa;
   border-right: 2px solid #f9f7fa;
   border-bottom: 0.5rem solid #f11b14;
