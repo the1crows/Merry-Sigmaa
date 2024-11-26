@@ -28,7 +28,7 @@ canvas {
   top: 0;
   left: 0;
   z-index: 9999;
-  background: #f83434;
+  background: #1e0202;
   height: 100%;
   width: 100%;
   display: flex;
@@ -36,7 +36,7 @@ canvas {
   gap: 1.5rem;
   align-items: center;
   justify-content: center;
-  color: #f61313;
+  color: #f3efef;
 }
 
 /* Add any additional styles here */
@@ -78,7 +78,7 @@ canvas {
 .line-box .line {
   height: 20px;
   border-radius: 20px;
-  background: #f90a0a ;
+  background: #fbf8f8 ;
   animation: loading 2.5s forwards cubic-bezier(0,0,0,0);
 }
 
